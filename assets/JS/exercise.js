@@ -15,3 +15,7 @@ console.log("La suma es:", suma);
 console.log("suma:", a+b);
 
 console.log("La concatenación es:", concatenacion);
+
+let concatenacion2 = "El conductor" + driver + " tiene un " +carName;
+
+console.log(concatenacion2);

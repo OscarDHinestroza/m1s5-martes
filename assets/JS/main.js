@@ -15,7 +15,7 @@ let nombreCompleto = "Oscar Hinestroza" //string (text)
 let telefono = 123456789; // number (número)
 let humano = true; // boolean (true/falso)
 let direccion; //undefined (no value)
-let codigoPostal = null; //null
+let codigoPostal = null; //null (nulo)
 
 /*
 console.log("nombreCompleto", typeof nombreCompleto);
